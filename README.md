@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm Nik L., a developer and marketing enthusiast with a unique passion for crafting technical solutions that enhance marketing strategies. My expertise lies in building interactive demo tools that drive engagement, boost conversions, and provide valuable insights. If you're looking for a tech-savvy collaborator who can bridge the gap between marketing and development, you've come to the right place.
+I'm Nik L., a marketing enthusiast and passive developer with a unique passion for crafting technical solutions that enhance marketing strategies. My expertise lies in building interactive demo tools that drive engagement, boost conversions, and provide valuable insights. If you're looking for a tech-savvy collaborator who can bridge the gap between marketing and development, you've come to the right place.
 
-### Developer at Heart
+### Growth at Heart
 
-- 💻 I'm a developer at heart, and I thrive on turning marketing concepts into technical reality.
+- 💻 I'm a growth person at heart, and I thrive on turning marketing concepts into technical reality.
 - 💡 I specialize in coding interactive tools that can be seamlessly integrated into marketing campaigns.
 - 🌱 Currently, I'm expanding my coding skills, focusing on React, CSS, HTML and JS.
 - 💞️ I’m eager to collaborate on projects related to the notifications space, communication APIs, and building interactive marketing solutions.
