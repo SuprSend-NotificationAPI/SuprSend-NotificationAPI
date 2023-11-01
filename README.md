@@ -15,7 +15,7 @@ I'm Nik L., a marketing enthusiast with a cheeky developer alter ego. My mission
 
 📫 Don't be shy, slide into my [LinkedIn DMs](https://www.linkedin.com/in/nik-k-l/). Let's chat about making marketing not just great but outright legendary. It's not just about traffic; it's about crafting tools that convert and perform some marketing magic.
 
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=piyush)](https://dev.to/nikl)
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=nikl)](https://dev.to/nikl)
 
 ## The Superpowers at My Disposal 💪
 
