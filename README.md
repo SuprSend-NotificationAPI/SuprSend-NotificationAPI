@@ -19,7 +19,7 @@ I'm Nik L., a marketing enthusiast with a cheeky developer alter ego. My mission
 
 [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=nikl)](https://dev.to/nikl)
 
-## The Superpowers at My Disposal 💪
+## Working On 💪
 
 ### Developer Extraordinaire
 
