@@ -11,7 +11,7 @@ I'm Nik L., a marketing enthusiast who's also got a thing for coding. What's my 
 
 ## Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nik-k-l/). Let's talk about taking marketing to the next level. It's not just about getting more visitors; it's about making tools that really work their magic.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nik-k9/). Let's talk about taking marketing to the next level. It's not just about getting more visitors; it's about making tools that really work their magic.
 
 ## Check Out My Latest Dev.to Post
 
