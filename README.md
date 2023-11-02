@@ -15,7 +15,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nik-k-l/)
 
 ## Check Out My Latest Dev.to Post
 
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=nikl)
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=nikl)](https://dev.to/nikl)
 
 ## What I'm Working On
 
