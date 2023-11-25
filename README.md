@@ -24,8 +24,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nik-k9/).
 I'm all about using tech to answer those tricky growth questions:
 
 - Figuring out what activities lead to more revenue. 🚀
-- Discovering the best ways to distribute marketing content. 📊
-- Creating tech solutions that kickstart your growth journey with minimal hassle. 🧰
+- Discovering the best ways to distribute devs content. 📊
+- Creating tech-applications for product demos. 🧰
 
 ### Tech Wizardry & Data-Driven Marketing 🧙‍♂️
 
