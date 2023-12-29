@@ -1,6 +1,6 @@
 ## All About Me
 
-I'm Nik L., a marketing enthusiast who's also got a thing for coding. What's my deal? Well, I like to mix marketing with a bit of technical know-how. If you're on the hunt for someone who can handle both marketing and coding, you've found your guy.
+I'm <kbd>Nik L.</kbd>, a marketing enthusiast who's also got a thing for coding. What's my deal? Well, I like to mix marketing with a bit of technical know-how. If you're on the hunt for someone who can handle both marketing and coding, you've found your guy.
 
 ## What I'm Up To
 
