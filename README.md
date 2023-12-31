@@ -34,13 +34,6 @@ My latest obsession? Making interactive demo tools and tech tricks for marketing
 Feel free to reach out – let's work some tech-marketing magic together! ✨
 
 
-
-- [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g) - 30/12/2023
-- [Bifrost, self-hosted tool to run notifications directly from your data...](https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe) - 29/12/2023
-- [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp) - 27/12/2023
-- [Adding a Notification Feed in React Websites](https://dev.to/suprsend/adding-a-notification-feed-in-react-websites-4oa0) - 19/12/2023
-- [Free Way to Add Notification Center in Your Mobile/ Web...](https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3) - 19/12/2023
-
 <table>
         <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--in25plJC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u01qm0mnwqjykc7x1v9f.jpg" alt="thumbnail"></td>
