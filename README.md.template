@@ -33,6 +33,4 @@ My latest obsession? Making interactive demo tools and tech tricks for marketing
 
 Feel free to reach out – let's work some tech-marketing magic together! ✨
 
-
-{{ template "article-list" .Articles }}
 {{ template "article-table" .Articles }}
