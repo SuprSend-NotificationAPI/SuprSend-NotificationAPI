@@ -34,5 +34,52 @@ My latest obsession? Making interactive demo tools and tech tricks for marketing
 Feel free to reach out – let's work some tech-marketing magic together! ✨
 
 
-{{ template "article-list" .Articles }}
-{{ template "article-table" .Articles }}
+
+- [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g) - 30/12/2023
+- [Bifrost, self-hosted tool to run notifications directly from your data...](https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe) - 29/12/2023
+- [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp) - 27/12/2023
+- [Adding a Notification Feed in React Websites](https://dev.to/suprsend/adding-a-notification-feed-in-react-websites-4oa0) - 19/12/2023
+- [Free Way to Add Notification Center in Your Mobile/ Web...](https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3) - 19/12/2023
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--in25plJC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u01qm0mnwqjykc7x1v9f.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/nikl/react-is-slow-what-to-do-now-369g">React is Slow, What to do now?</a>
+                <div>Check out more articles:   Building a Scalable Notification System with gRPC and Microservices Adding...</div>
+                <div><i>30/12/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--28ANs6YY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iziv9vdr8so7fmmjdsn4.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe">Bifrost, self-hosted tool to run notifications directly from your data...</a>
+                <div>Check out more articles:   Building a Scalable Notification System with gRPC and Microservices Adding...</div>
+                <div><i>29/12/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XxsCMtav--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oe7a6q3q280lccdocbfn.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp">5 Golang Features I Wished Were Different!</a>
+                <div>More articles you can read:    Using Golang to Build a Real-Time Notification System - A Step-by-Step...</div>
+                <div><i>27/12/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tl828o4s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zqhl61l6lr8lt7u8iad.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/suprsend/adding-a-notification-feed-in-react-websites-4oa0">Adding a Notification Feed in React Websites</a>
+                <div>Building a robust notification system in React can be a complex task. Juggling multi-channel...</div>
+                <div><i>19/12/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mLCOw5p6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xku2drfar92pwj1k0tq2.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3">Free Way to Add Notification Center in Your Mobile/ Web...</a>
+                <div>Here is a tutorial for implementing a robust in-app notification service for your Angular application...</div>
+                <div><i>19/12/2023</i></div>
+            </td>
+        </tr>
+</table>
