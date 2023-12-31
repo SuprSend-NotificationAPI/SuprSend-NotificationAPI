@@ -1,7 +1,7 @@
 name: "Cronjob"
 on:
- schedule:
-  - cron: '15 0 * * *'
+  schedule:
+    - cron: '* * * * *'
 
 jobs:
     update-articles:
@@ -12,7 +12,7 @@ jobs:
             - name: Generate README
               uses: huantt/article-listing@v1.1.0
               with:
-                username: YOUR_USERNAME_ON_DEV_TO                
+                username: nikl                
                 template-file: 'README.md.template'
                 out-file: 'README.md'
                 limit: 5
