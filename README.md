@@ -61,7 +61,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nik-k9/).
 
 ## What I'm Working On
 
-### Coding Extraordinaire
+### Codes
 
 I'm all about using tech to answer those tricky growth questions:
 
@@ -69,9 +69,9 @@ I'm all about using tech to answer those tricky growth questions:
 - Discovering the best ways to distribute devs content. 📊
 - Creating tech-applications for product demos. 🧰
 
-### Tech Wizardry & Data-Driven Marketing 🧙‍♂️
+### Tech & Data-Driven Marketing 🧙‍♂️
 
-My latest obsession? Making interactive demo tools and tech tricks for marketing. Over the last six years, I've come up with data-driven, revenue-focused marketing strategies. Let's team up and turn your ideas into marketing success stories in the ever-changing digital world for developers.
+My latest obsession? Making interactive demo tools and tech tricks for marketing. 
 
 Feel free to reach out – let's work some tech-marketing magic together! ✨
 
