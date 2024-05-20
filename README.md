@@ -6,8 +6,8 @@ I'm <kbd>Nik L.</kbd>, a marketing enthusiast who's also got a thing for coding.
 
 - I'm all about making marketing ideas come to life with tech. 💻
 - My special sauce? I create interactive tools that fit right into marketing campaigns. 💡
-- Right now, I'm honing my coding skills with React, CSS, HTML, and JS. I'm always learning! 🌱
-- I'm open to collaborations in notifications, communication APIs, and anything interactive marketing-related. 💞️
+- Right now, I'm honing my coding skills with React, CSS, HTML, JS, Next, and Node. It's fun, tbh! 🌱
+- Open to collaborations in notifications, communication APIs, and anything interactive marketing-related. 💞️
 
 ## Get in Touch
 
